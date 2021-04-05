@@ -12,6 +12,8 @@ int main() {
     CP.set_xyz();
     CP.initialise(15,Himalaya);
     //CP.calcule_laplaciens();
+    //salut
+  
     //CP.affichage();
 
     return 0;
